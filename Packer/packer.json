@@ -1,9 +1,9 @@
 {
   "variables": {
-    "aws_access_key": "",
-    "aws_secret_key": "",
-    "aws_profile":"nicolas.houillon",
-    "aws_region":"us-west-2"
+    "aws_access_key": "AKIAXLEQMQ4WOOIJ4E73",
+    "aws_secret_key": "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",
+    "aws_profile":"VALERY KOUEGOU ASAH",
+    "aws_region":"us-east-1"
   },
   "builders": [{
     "type": "amazon-ebs",
